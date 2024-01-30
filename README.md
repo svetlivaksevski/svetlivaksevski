@@ -11,7 +11,7 @@
 
 > "`Hello world! 🌍`  My personal web page is...well, I don't have one yet 😢. That's why here is a link to my [GitHub](https://github.com/svetlivaksevski)"
 
-
+***Nice photo from Corfu***
 ![Pictre I made at Cartfu](https://github.com/svetlivaksevski/svetlivaksevski/blob/main/isla.jpeg)
 
 
