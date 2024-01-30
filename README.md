@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-🔭 I’m currently working on myself hahah. 
+🔭 I’m currently working on myself haha and also trying to become proficient in coding.
 
+Other interesting things I do in my free time: 
+
+ - I learn languages. My main focus at the moment is German 🇩🇪 but I also want to learn Spanish 🇪🇸
+  - I like dancing in my free time and I go to Reggeaton classes 🕺
+    
 ⚡ Fun fact: I love cooking spaghetti Bolognese 🍝
 
-`Hello world` my personal web page is I don't have one. That's why here is a link to my [GitHub](https://github.com/svetlivaksevski)
-**I love traveling and I like palms and beaches 🏝️**
-
-![Pictre I made at Cartfu](https://github.com/svetlivaksevski/svetlivaksevski/blob/main/isla.jpeg)
 
 
 <!--
