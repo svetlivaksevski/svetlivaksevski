@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on myself haha and also trying to become proficient in coding.
 
-Other interesting things I do in my free time: 
+**Other interesting things I do in my free time:**
 
  - I learn languages. My main focus at the moment is German 🇩🇪 but I also want to learn Spanish 🇪🇸
   - I like dancing in my free time and I go to Reggeaton classes 🕺
