@@ -11,6 +11,12 @@
 
 > "`Hello world! 🌍`  My personal web page is...well, I don't have one yet 😢. That's why here is a link to my [GitHub](https://github.com/svetlivaksevski)"
 
+| I want to learn ❤️ |  My progress |
+| ----------- | ----------- |
+| **JavaScript** | in progress ⌛️ | 
+| **Next.js** |  in progress ⌛️ |
+| **HTML,CSS** |  in progress ⌛️ |
+
 ***Nice photo from Corfu***
 ![Pictre I made at Cartfu](https://github.com/svetlivaksevski/svetlivaksevski/blob/main/isla.jpeg)
 
