@@ -5,6 +5,9 @@
 ⚡ Fun fact: I love cooking spaghetti Bolognese 🍝
 
 `Hello world` my personal web page is I don't have one. That's why here is a link to my [GitHub](https://github.com/svetlivaksevski)
+**I love traveling and I like palms and beaches 🏝️**
+
+![Pictre I made at Cartfu](https://github.com/svetlivaksevski/svetlivaksevski/blob/main/isla.jpeg)
 
 
 <!--
